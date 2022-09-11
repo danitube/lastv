@@ -1,0 +1,22 @@
+	   
+		 .bgluky{
+			 width:300px;
+			 height:150px;
+			 border-radius:5px;
+			 background-color:#fff;
+			 border: 2px dashed #00A4BD;
+             padding: 5px;
+             box-shadow: 2px 2px 2px 2px #00A4BD;
+			 text-align:center;
+  
+		 }
+		 
+		 .borderdotter{
+			 text-align:center;
+			 padding:5px;
+			 margin-bottom:-30px;
+			 color:#00A4BD;
+			 font-size:18px;
+			 font-weight:bold;
+			 font: 18px tahoma;
+		 }
